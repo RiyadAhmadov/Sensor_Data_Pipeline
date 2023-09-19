@@ -38,7 +38,7 @@ In the last step, we visualize our data in Power BI. First, we pull data from da
 
 ## Database & Tables
 
-## Database:
+## Database A:
 ## 1) soil_sensor
 
 id: Unique identifier for each record
